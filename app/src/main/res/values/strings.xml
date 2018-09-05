@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <string name="edit_text_hint">GitHub username</string>
+    <string name="btn_search_title">Search</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="error_message">A network error has occurred. Check your Internet connection and try again later.</string>
+    <string name="user_not_found">User not found. Please enter another name.</string>
+    <string name="repo_list_empty">This user does not have any repository.</string>
+    <string name="searching">Searching…</string>
+    <string name="undefined">Undefined</string>
+    <string name="ok">Ok</string>
+</resources>
